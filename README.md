@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Martin Pelaez @MartoMcfly Engineer an minor in physics!
+- 👋 Hi, I’m Martin Pelaez @MartoMcfly Engineer and minor in physics!
 - 👀 I’m interested in Data science, Machine Learning and Full-Stack develpment
 - 🌱 I’m currently learning Big Data and back-end development
 - 💞️ I’m looking to collaborate on Machine learning problems 
